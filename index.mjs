@@ -5,15 +5,15 @@ import http from 'node:http'
 const fechaActual = new Date();
 const dia = fechaActual.getDate();
 const mes = fechaActual.getMonth() + 1;
-const anio = fechaActual.getFullYear();
-let archivo = `./log-(${dia}-${mes}-${anio}).txt`;
+const año = fechaActual.getFullYear();
+let archivo = `./log-(${dia}-${mes}-${año}).txt`;
 
 const servidor = http.createServer((peticion, respuesta)=>{
     const ruta = peticion.url;
-    if (ruta === '/') {
+    if (ruta !== '/generarlog') {
         respuesta.end('Ingrese GenerarLog en el url para generar archivo')
     }
-    else if (ruta === '/generarLog'){
+    else if (ruta === '/generarlog'){
         async function escribir(){
             try {
                 let fd
@@ -34,6 +34,10 @@ process.on('SIGINT', async () =>{
     try {
         let tiempoCierre = new Date()
         await fs.appendFile(archivo, `Servidor cerrado el ${tiempoCierre.toLocaleString()}\n`);
+        const inicio = tiempoInicio
+        const cierre = tiempoCierre
+        const resultado = cierre - inicio
+        await fs.appendFile(archivo, `El servidor se mantuvo abierto: ${resultado / 1000} segundos`)
         process.exit(0);
     } catch (error) {
         console.log('Error')

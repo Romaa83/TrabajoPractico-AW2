@@ -1,0 +1,18 @@
+Procesador
+[{"model":"Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz","speed":2904,"times":{"user":22735375,"nice":0,"sys":17305656,"idle":262882812,"irq":7341781}},{"model":"Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz","speed":2904,"times":{"user":19932109,"nice":0,"sys":4595390,"idle":278396187,"irq":266515}},{"model":"Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz","speed":2904,"times":{"user":36580343,"nice":0,"sys":6448546,"idle":259894796,"irq":207078}},{"model":"Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz","speed":2904,"times":{"user":24902140,"nice":0,"sys":4203546,"idle":273818000,"irq":101343}},{"model":"Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz","speed":2904,"times":{"user":31642734,"nice":0,"sys":5781796,"idle":265499156,"irq":202437}},{"model":"Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz","speed":2904,"times":{"user":19640062,"nice":0,"sys":3525906,"idle":279757718,"irq":110562}},{"model":"Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz","speed":2904,"times":{"user":31649609,"nice":0,"sys":5334265,"idle":265939812,"irq":182984}},{"model":"Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz","speed":2904,"times":{"user":16768406,"nice":0,"sys":2841328,"idle":283313953,"irq":102421}},{"model":"Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz","speed":2904,"times":{"user":27546937,"nice":0,"sys":4165312,"idle":271211437,"irq":175656}},{"model":"Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz","speed":2904,"times":{"user":18686500,"nice":0,"sys":2887171,"idle":281349984,"irq":212406}},{"model":"Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz","speed":2904,"times":{"user":25572359,"nice":0,"sys":4579578,"idle":272771734,"irq":132421}},{"model":"Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz","speed":2904,"times":{"user":22901078,"nice":0,"sys":2997125,"idle":277025468,"irq":92125}}]
+
+Memoria Libre
+8.73
+
+Memoria Total
+15.94
+
+Memoria Usada
+7.209999999999999
+
+Interfaz de Red
+{"Ethernet":[{"address":"fe80::3396:d551:77fa:59a","netmask":"ffff:ffff:ffff:ffff::","family":"IPv6","mac":"2c:f0:5d:5e:39:a3","internal":false,"cidr":"fe80::3396:d551:77fa:59a/64","scopeid":14},{"address":"192.168.0.103","netmask":"255.255.255.0","family":"IPv4","mac":"2c:f0:5d:5e:39:a3","internal":false,"cidr":"192.168.0.103/24"}],"Loopback Pseudo-Interface 1":[{"address":"::1","netmask":"ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff","family":"IPv6","mac":"00:00:00:00:00:00","internal":true,"cidr":"::1/128","scopeid":0},{"address":"127.0.0.1","netmask":"255.0.0.0","family":"IPv4","mac":"00:00:00:00:00:00","internal":true,"cidr":"127.0.0.1/8"}]}
+
+Servidor iniciado el 18/4/2024, 10:05:33
+Servidor cerrado el 18/4/2024, 10:05:37
+El servidor se mantuvo abierto: 3.563 segundos

@@ -4,6 +4,7 @@ const procesador = JSON.stringify(os.cpus())
 const MemoriaLibre = ((os.freemem()/1024/1024/1024)).toFixed(2)
 const MemoriaTotal = ((os.totalmem()/1024/1024/1024)).toFixed(2)
 const memoriaUsada = MemoriaTotal - MemoriaLibre 
+const red = JSON.stringify(os.networkInterfaces())
 
 let datos = ""
 datos += "Procesador"
@@ -24,6 +25,11 @@ datos += os.EOL
 datos += "Memoria Usada"
 datos += os.EOL
 datos += memoriaUsada
+datos += os.EOL
+datos += os.EOL
+datos += "Interfaz de Red"
+datos += os.EOL
+datos += red
 datos += os.EOL
 datos += os.EOL
 
