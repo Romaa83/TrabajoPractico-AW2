@@ -10,14 +10,14 @@ let archivo = `./log-(${dia}-${mes}-${año}).txt`;
 
 const servidor = http.createServer((peticion, respuesta)=>{
     const ruta = peticion.url;
-    if (ruta !== '/generarlog') {
-        respuesta.end('Ingrese GenerarLog en el url para generar archivo')
+    if (ruta !== '/log') {
+        respuesta.end('Ingrese /log en el url para generar archivo')
     }
-    else if (ruta === '/generarlog'){
+     if (ruta === '/log'){
         async function escribir(){
             try {
                 let fd
-                fd = await fs.open(archivo, 'w')
+                fd = await fs.open(archivo, 'a')
                 await fs.writeFile(fd, datos)
                 await fs.appendFile(fd, `Servidor iniciado el ${tiempoInicio.toLocaleString()}\n`);
                 respuesta.end('Archivo LOG generado con exito')

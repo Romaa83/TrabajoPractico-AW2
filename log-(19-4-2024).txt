@@ -1,0 +1,39 @@
+
+-------------------------
+Procesador
+[{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":499640,"nice":0,"sys":451828,"idle":13824796,"irq":61531}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":171093,"nice":0,"sys":124578,"idle":14480343,"irq":1281}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":1174375,"nice":0,"sys":493937,"idle":13107703,"irq":4625}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":240562,"nice":0,"sys":181968,"idle":14353484,"irq":3031}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":624156,"nice":0,"sys":413312,"idle":13738546,"irq":3828}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":241718,"nice":0,"sys":155156,"idle":14379140,"irq":3359}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":600109,"nice":0,"sys":376218,"idle":13799687,"irq":5390}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":138796,"nice":0,"sys":103718,"idle":14533500,"irq":1156}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":453390,"nice":0,"sys":328281,"idle":13994343,"irq":4859}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":189953,"nice":0,"sys":156593,"idle":14429468,"irq":1828}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":395531,"nice":0,"sys":281468,"idle":14099015,"irq":3468}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":328187,"nice":0,"sys":155890,"idle":14291937,"irq":3671}}]
+
+Memoria Libre
+9.29
+
+Memoria Total
+15.80
+
+Memoria Usada
+6.510000000000002
+
+Interfaz de Red
+{"VirtualBox Host-Only Network":[{"address":"fe80::54a7:d4b2:ab9d:a423","netmask":"ffff:ffff:ffff:ffff::","family":"IPv6","mac":"0a:00:27:00:00:08","internal":false,"cidr":"fe80::54a7:d4b2:ab9d:a423/64","scopeid":8},{"address":"192.168.56.1","netmask":"255.255.255.0","family":"IPv4","mac":"0a:00:27:00:00:08","internal":false,"cidr":"192.168.56.1/24"}],"Ethernet 3":[{"address":"fe80::79b6:a906:d957:a06d","netmask":"ffff:ffff:ffff:ffff::","family":"IPv6","mac":"d8:5e:d3:92:19:04","internal":false,"cidr":"fe80::79b6:a906:d957:a06d/64","scopeid":18},{"address":"192.169.0.190","netmask":"255.255.255.0","family":"IPv4","mac":"d8:5e:d3:92:19:04","internal":false,"cidr":"192.169.0.190/24"}],"VMware Network Adapter VMnet1":[{"address":"fe80::7d32:5000:2839:3163","netmask":"ffff:ffff:ffff:ffff::","family":"IPv6","mac":"00:50:56:c0:00:01","internal":false,"cidr":"fe80::7d32:5000:2839:3163/64","scopeid":10},{"address":"192.168.241.1","netmask":"255.255.255.0","family":"IPv4","mac":"00:50:56:c0:00:01","internal":false,"cidr":"192.168.241.1/24"}],"VMware Network Adapter VMnet8":[{"address":"fe80::d911:6185:65a2:f67a","netmask":"ffff:ffff:ffff:ffff::","family":"IPv6","mac":"00:50:56:c0:00:08","internal":false,"cidr":"fe80::d911:6185:65a2:f67a/64","scopeid":13},{"address":"192.168.196.1","netmask":"255.255.255.0","family":"IPv4","mac":"00:50:56:c0:00:08","internal":false,"cidr":"192.168.196.1/24"}],"Loopback Pseudo-Interface 1":[{"address":"::1","netmask":"ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff","family":"IPv6","mac":"00:00:00:00:00:00","internal":true,"cidr":"::1/128","scopeid":0},{"address":"127.0.0.1","netmask":"255.0.0.0","family":"IPv4","mac":"00:00:00:00:00:00","internal":true,"cidr":"127.0.0.1/8"}]}
+
+Servidor iniciado el 19/4/2024, 11:31:00
+Servidor cerrado el 19/4/2024, 11:31:06
+El servidor se mantuvo abierto: 6.091 segundos
+-------------------------
+Procesador
+[{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":499968,"nice":0,"sys":452109,"idle":13835765,"irq":61578}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":171187,"nice":0,"sys":124625,"idle":14491781,"irq":1281}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":1175140,"nice":0,"sys":494312,"idle":13118140,"irq":4640}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":240812,"nice":0,"sys":182156,"idle":14364625,"irq":3031}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":624750,"nice":0,"sys":413640,"idle":13749203,"irq":3828}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":241796,"nice":0,"sys":155234,"idle":14390562,"irq":3359}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":600562,"nice":0,"sys":376343,"idle":13810687,"irq":5390}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":138906,"nice":0,"sys":103781,"idle":14544906,"irq":1171}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":453750,"nice":0,"sys":328437,"idle":14005406,"irq":4875}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":190125,"nice":0,"sys":156781,"idle":14440687,"irq":1828}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":395781,"nice":0,"sys":281703,"idle":14110109,"irq":3468}},{"model":"11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz","speed":2592,"times":{"user":328359,"nice":0,"sys":155921,"idle":14303312,"irq":3671}}]
+
+Memoria Libre
+9.28
+
+Memoria Total
+15.80
+
+Memoria Usada
+6.520000000000001
+
+Interfaz de Red
+{"VirtualBox Host-Only Network":[{"address":"fe80::54a7:d4b2:ab9d:a423","netmask":"ffff:ffff:ffff:ffff::","family":"IPv6","mac":"0a:00:27:00:00:08","internal":false,"cidr":"fe80::54a7:d4b2:ab9d:a423/64","scopeid":8},{"address":"192.168.56.1","netmask":"255.255.255.0","family":"IPv4","mac":"0a:00:27:00:00:08","internal":false,"cidr":"192.168.56.1/24"}],"Ethernet 3":[{"address":"fe80::79b6:a906:d957:a06d","netmask":"ffff:ffff:ffff:ffff::","family":"IPv6","mac":"d8:5e:d3:92:19:04","internal":false,"cidr":"fe80::79b6:a906:d957:a06d/64","scopeid":18},{"address":"192.169.0.190","netmask":"255.255.255.0","family":"IPv4","mac":"d8:5e:d3:92:19:04","internal":false,"cidr":"192.169.0.190/24"}],"VMware Network Adapter VMnet1":[{"address":"fe80::7d32:5000:2839:3163","netmask":"ffff:ffff:ffff:ffff::","family":"IPv6","mac":"00:50:56:c0:00:01","internal":false,"cidr":"fe80::7d32:5000:2839:3163/64","scopeid":10},{"address":"192.168.241.1","netmask":"255.255.255.0","family":"IPv4","mac":"00:50:56:c0:00:01","internal":false,"cidr":"192.168.241.1/24"}],"VMware Network Adapter VMnet8":[{"address":"fe80::d911:6185:65a2:f67a","netmask":"ffff:ffff:ffff:ffff::","family":"IPv6","mac":"00:50:56:c0:00:08","internal":false,"cidr":"fe80::d911:6185:65a2:f67a/64","scopeid":13},{"address":"192.168.196.1","netmask":"255.255.255.0","family":"IPv4","mac":"00:50:56:c0:00:08","internal":false,"cidr":"192.168.196.1/24"}],"Loopback Pseudo-Interface 1":[{"address":"::1","netmask":"ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff","family":"IPv6","mac":"00:00:00:00:00:00","internal":true,"cidr":"::1/128","scopeid":0},{"address":"127.0.0.1","netmask":"255.0.0.0","family":"IPv4","mac":"00:00:00:00:00:00","internal":true,"cidr":"127.0.0.1/8"}]}
+
+Servidor iniciado el 19/4/2024, 11:31:12
+Servidor cerrado el 19/4/2024, 11:31:17
+El servidor se mantuvo abierto: 4.87 segundos

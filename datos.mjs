@@ -7,6 +7,9 @@ const memoriaUsada = MemoriaTotal - MemoriaLibre
 const red = JSON.stringify(os.networkInterfaces())
 
 let datos = ""
+datos += os.EOL
+datos += "-------------------------"
+datos += os.EOL
 datos += "Procesador"
 datos += os.EOL
 datos += procesador
