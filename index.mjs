@@ -20,6 +20,7 @@ const servidor = http.createServer((peticion, respuesta)=>{
                 fd = await fs.open(archivo, 'a')
                 await fs.writeFile(fd, datos)
                 await fs.appendFile(fd, `Servidor iniciado el ${tiempoInicio.toLocaleString()}\n`);
+                fd.close()
                 respuesta.end('Archivo LOG generado con exito')
             } catch (error) {
                 respuesta.end('Error al generar el archivo')
